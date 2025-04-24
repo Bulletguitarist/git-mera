@@ -1,3 +1,5 @@
 bug fixed here in this file
 
 fix msg for pinkmode
+
+kuch toh naya hai naa yaha isilyeh aisa hoorha hai 
